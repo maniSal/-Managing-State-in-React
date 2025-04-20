@@ -1,0 +1,17 @@
+/* Style for the button container */
+.btn {
+    display: flex;
+    gap: 10px; /* spacing between buttons */
+    margin-top: 15px; /* spacing from the description text */
+  }
+  
+  /* Optional: make buttons take equal space */
+  .btn button {
+    flex: 1;
+  }
+  
+  /* Optional: add some spacing around the whole component */
+  .accordion {
+    margin: 20px;
+  }
+  
